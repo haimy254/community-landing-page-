@@ -1,0 +1,49 @@
+body{
+    background-color: #fff;
+    color: black;
+    padding-top: 3rem;
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+    /* height: 1024px;
+    width: 1440px; */
+}
+
+.d-button{
+    border-radius: 0.5rem;
+    color: aliceblue;
+    background-color: black;
+    height: 2.5rem;
+    width: 10rem;
+}
+
+.s-button{
+    border-radius: 0.5rem;
+    height: 2.5rem;
+    width: 10rem;
+}
+
+.card{
+    height: 33rem;
+    
+}
+
+.nav{
+    color: black;
+    margin-left: 10rem;
+    padding-left: 3rem;
+    justify-content: space-between;
+}
+
+.content{
+    padding-top: 5rem;
+}
+
+.img{
+    height: 33rem;
+    width: 34.2rem;
+padding-top: -2.5rem;
+}
+
+.row{
+    border-color: black;
+}
